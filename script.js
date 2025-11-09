@@ -4,7 +4,7 @@ const products = [
         id: 1,
         name: "Classic Denim Jacket",
         price: 7999.00,
-        discountedPrice: 5999.00,
+        discountedPrice: 2599.00,
         image: "./img/image.png",
         description: "A timeless, rugged denim jacket perfect for all seasons. Features a button-up front and two chest pockets."
     },
