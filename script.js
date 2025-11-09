@@ -3,7 +3,7 @@ const products = [
     {
         id: 1,
         name: "Classic Denim Jacket",
-        price: 7999.00,
+        price: 2999.00,
         discountedPrice: 2599.00,
         image: "./img/image.png",
         description: "A timeless, rugged denim jacket perfect for all seasons. Features a button-up front and two chest pockets."
@@ -11,24 +11,24 @@ const products = [
     {
         id: 2,
         name: "Wireless Noise-Cancelling Headphones",
-        price: 19999.00,
-        discountedPrice: 14999.00,
+        price: 8999.00,
+        discountedPrice: 7999.00,
         image: "./img/image2.webp",
         description: "Experience pure audio with industry-leading noise cancellation and a comfortable, ergonomic design. 30-hour battery life."
     },
     {
         id: 3,
         name: "Organic Cotton T-Shirt Pack",
-        price: 3999.00,
-        discountedPrice: 2999.00,
+        price: 999.00,
+        discountedPrice: 599.00,
         image: "./img/image3.jpg",
         description: "A pack of three incredibly soft organic cotton t-shirts in essential colors. Sustainable and breathable."
     },
     {
         id: 4,
         name: "4K Ultra HD Smart TV (55 Inch)",
-        price: 59999.00,
-        discountedPrice: 49999.00,
+        price: 49999.00,
+        discountedPrice: 35999.00,
         image: "./img/image4.png",
         description: "Vibrant colors and sharp details with smart features built-in. Perfect for movies and gaming."
     }
