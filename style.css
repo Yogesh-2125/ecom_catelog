@@ -26,6 +26,15 @@ body {
     line-height: 1.6;
 }
 
+footer {
+    text-align: center;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-top: 1px solid var(--shadow);
+    color: var(--color-text-secondary);
+    background-color: var(--background-color);
+}
+
 /* === VIEW MANAGEMENT === */
 #viewContainer {
     max-width: 1300px;
